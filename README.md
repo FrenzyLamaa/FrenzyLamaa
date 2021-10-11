@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FrenzyLamaa
 - 👀 I’m interested in Coding, AI, DataScience...
 - 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on sauravsinghdev@gmail.com
 
 <!---
